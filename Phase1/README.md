@@ -1,4 +1,4 @@
-# Multiprogramming OS Job Execution Simulation
+# Multiprogramming OS Job Execution Simulation Phase 1
 
 ## Project Overview
 This project simulates the basic operations of a multiprogramming operating system, focusing on executing jobs in memory. It demonstrates core OS functionalities such as job scheduling, memory management, and instruction execution. By interpreting simple commands from an input file, the system mimics how an OS manages job processing, executes instructions, and performs basic input/output operations.
