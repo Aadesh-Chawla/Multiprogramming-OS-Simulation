@@ -12,8 +12,6 @@ This project is the second phase of the Multiprogramming Operating System (MOS),
 5. [Components and Registers](#components-and-registers)
 6. [Execution Flow](#execution-flow)
 7. [Error Messages and Termination Codes](#error-messages-and-termination-codes)
-8. [Setup and Execution](#setup-and-execution)
-
 ---
 
 ## 1. Introduction
